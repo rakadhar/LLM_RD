@@ -1,2 +1,2 @@
 "# rd_LLM_session" 
-https://chatgpt.com/canvas/shared/67f2a31115e4819183531290d7789b62
+https://chatgpt.com/canvas/shared/67f2ecf551d881918d2bb9093e65a4f9
